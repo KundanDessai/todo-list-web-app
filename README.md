@@ -64,6 +64,8 @@ A simple **To-Do List Web Application** built using **PHP**, **MySQL**, **HTML**
 ---
 
 ## Screenshots 
-```markdown
-![Add Task Screenshot]("indexpage_todolist.png")
-![View Tasks Screenshot](path_to_view_tasks_screenshot.png)
+![indexpage_todolist](https://github.com/user-attachments/assets/809ca368-1a5b-4cfb-924b-1d3f4774c4a8)
+![after_adding_task](https://github.com/user-attachments/assets/3f126718-a155-4aeb-9722-8ad316d700fd)
+
+
+
