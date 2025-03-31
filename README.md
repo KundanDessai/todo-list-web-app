@@ -26,7 +26,7 @@ A simple **To-Do List Web Application** built using **PHP**, **MySQL**, **HTML**
 
 1. **Clone the Repository**  
     ```bash
-    git clone https://github.com/yourusername/todo-list-web-app.git
+    git clone https://github.com/KundanDessai/todo-list-web-app.git
     ```
 2. **Start XAMPP**  
     - Ensure **Apache** and **MySQL** are running.  
